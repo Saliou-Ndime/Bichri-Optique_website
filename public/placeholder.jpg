@@ -1,0 +1,9 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F5F0FF"/>
+  <ellipse cx="220" cy="310" rx="90" ry="80" stroke="#7c1aff" stroke-width="6" fill="none" opacity="0.3"/>
+  <ellipse cx="380" cy="310" rx="90" ry="80" stroke="#7c1aff" stroke-width="6" fill="none" opacity="0.3"/>
+  <path d="M310 300C308 290 292 290 290 300" stroke="#7c1aff" stroke-width="5" stroke-linecap="round" opacity="0.3"/>
+  <path d="M130 290L140 300" stroke="#7c1aff" stroke-width="5" stroke-linecap="round" opacity="0.3"/>
+  <path d="M470 290L460 300" stroke="#7c1aff" stroke-width="5" stroke-linecap="round" opacity="0.3"/>
+  <text x="300" y="450" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#a674ff">Bichri Optique</text>
+</svg>
